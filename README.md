@@ -1,5 +1,6 @@
 # lg-aimers
 Repo for Learning member of LG-Aimers (2024.07.01 - 08.31)
+해커톤 상위 4%
 [![LG Aimers PDF](https://github.com/user-attachments/assets/8c27a5bc-f4d3-4d2d-9f44-7daf2d2bce94)](lg_aimers.pdf)
 <img width="806" height="459" alt="image" src="https://github.com/user-attachments/assets/01f2fc49-b35d-4f7a-89f3-e79f70253b72" />
 <img width="815" height="459" alt="image" src="https://github.com/user-attachments/assets/5b0a9379-045d-4f28-8a5f-d1feb1287b0c" />
